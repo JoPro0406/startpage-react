@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/startpage-react/static/css/main.d498bfb3.chunk.css",
-    "main.js": "/startpage-react/static/js/main.ffc0c05f.chunk.js",
-    "main.js.map": "/startpage-react/static/js/main.ffc0c05f.chunk.js.map",
+    "main.css": "/startpage-react/static/css/main.d6ca1cde.chunk.css",
+    "main.js": "/startpage-react/static/js/main.45eccab6.chunk.js",
+    "main.js.map": "/startpage-react/static/js/main.45eccab6.chunk.js.map",
     "runtime-main.js": "/startpage-react/static/js/runtime-main.51aa0f97.js",
     "runtime-main.js.map": "/startpage-react/static/js/runtime-main.51aa0f97.js.map",
-    "static/js/2.937c78b1.chunk.js": "/startpage-react/static/js/2.937c78b1.chunk.js",
-    "static/js/2.937c78b1.chunk.js.map": "/startpage-react/static/js/2.937c78b1.chunk.js.map",
+    "static/js/2.1c142d1e.chunk.js": "/startpage-react/static/js/2.1c142d1e.chunk.js",
+    "static/js/2.1c142d1e.chunk.js.map": "/startpage-react/static/js/2.1c142d1e.chunk.js.map",
     "index.html": "/startpage-react/index.html",
-    "precache-manifest.0fbf5fb1d0ccdd74e2edb11d69650e69.js": "/startpage-react/precache-manifest.0fbf5fb1d0ccdd74e2edb11d69650e69.js",
+    "precache-manifest.2910ea6acd497ca2c6592ecd99a8a68b.js": "/startpage-react/precache-manifest.2910ea6acd497ca2c6592ecd99a8a68b.js",
     "service-worker.js": "/startpage-react/service-worker.js",
-    "static/css/main.d498bfb3.chunk.css.map": "/startpage-react/static/css/main.d498bfb3.chunk.css.map",
-    "static/js/2.937c78b1.chunk.js.LICENSE.txt": "/startpage-react/static/js/2.937c78b1.chunk.js.LICENSE.txt"
+    "static/css/main.d6ca1cde.chunk.css.map": "/startpage-react/static/css/main.d6ca1cde.chunk.css.map",
+    "static/js/2.1c142d1e.chunk.js.LICENSE.txt": "/startpage-react/static/js/2.1c142d1e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/startpage-react/static/media/bg.237c9b97.jpg",
+    "static/media/cotta.png": "/startpage-react/static/media/cotta.57db9166.png",
+    "static/media/crunchyroll.png": "/startpage-react/static/media/crunchyroll.5c138bd8.png",
+    "static/media/gmail.png": "/startpage-react/static/media/gmail.598d07e7.png",
+    "static/media/reddit.png": "/startpage-react/static/media/reddit.7a140126.png",
+    "static/media/search.png": "/startpage-react/static/media/search.2a59b984.png"
   },
   "entrypoints": [
     "static/js/runtime-main.51aa0f97.js",
-    "static/js/2.937c78b1.chunk.js",
-    "static/css/main.d498bfb3.chunk.css",
-    "static/js/main.ffc0c05f.chunk.js"
+    "static/js/2.1c142d1e.chunk.js",
+    "static/css/main.d6ca1cde.chunk.css",
+    "static/js/main.45eccab6.chunk.js"
   ]
 }
