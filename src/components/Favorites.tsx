@@ -46,7 +46,7 @@ const Favorites = () => {
       {FAVORITES.map((favorite) => (
         <div
           className="favorite-item"
-          onClick={() => (window.location.href = favorite.url)}>
+          onClick={() => window.open(favorite.url)}>
           <img src={favorite.icon} alt="" className="favorite-item-icon" />
           <p>{favorite.name}</p>
         </div>

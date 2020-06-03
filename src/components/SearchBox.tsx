@@ -11,14 +11,14 @@ const SearchBox = () => {
   const handleEnter = (e: KeyboardEvent<HTMLInputElement>) => {
     if (e.key === "Enter" && inputVal.trim() !== "") {
       let search = inputVal.replace(/\s/g, "+").replace(/!/g, "%21");
-      window.location.href = `https://duckduckgo.com/?q=${search}`;
+      window.open(`https://duckduckgo.com/?q=${search}`);
     }
   };
 
   const handleClick = () => {
     if (inputVal.trim() !== "") {
       let search = inputVal.replace(/\s/g, "+").replace(/!/g, "%21");
-      window.location.href = `https://duckduckgo.com/&q=${search}`;
+      window.open(`https://duckduckgo.com/&q=${search}`);
     }
   };
 
