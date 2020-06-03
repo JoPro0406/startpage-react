@@ -1,5 +1,5 @@
 import React, { useState, ChangeEvent, KeyboardEvent } from "react";
-import searchIcon from "./icons/search.png";
+import searchIcon from "../icons/search.png";
 
 const SearchBox = () => {
   const [inputVal, setInputVal] = useState("");

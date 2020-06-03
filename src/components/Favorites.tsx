@@ -1,11 +1,11 @@
 import React from "react";
 
-import ytIcon from "./icons/yt.png";
-import redditIcon from "./icons/reddit.png";
-import crIcon from "./icons/crunchyroll.png";
-import cottaIcon from "./icons/cotta.png";
-import gmailIcon from "./icons/gmail.png";
-import nineanimeIcon from "./icons/9anime.png";
+import ytIcon from "../icons/yt.png";
+import redditIcon from "../icons/reddit.png";
+import crIcon from "../icons/crunchyroll.png";
+import cottaIcon from "../icons/cotta.png";
+import gmailIcon from "../icons/gmail.png";
+import nineanimeIcon from "../icons/9anime.png";
 
 const FAVORITES = [
   {

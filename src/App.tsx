@@ -2,8 +2,8 @@ import React from "react";
 
 import "./index.css";
 
-import SearchBox from "./SearchBox";
-import Favorites from "./Favorites";
+import SearchBox from "./components/SearchBox";
+import Favorites from "./components/Favorites";
 
 const App = () => {
   return (
