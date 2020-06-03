@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/startpage-react/static/css/main.d6ca1cde.chunk.css",
+    "main.css": "/startpage-react/static/css/main.fc990d74.chunk.css",
     "main.js": "/startpage-react/static/js/main.45eccab6.chunk.js",
     "main.js.map": "/startpage-react/static/js/main.45eccab6.chunk.js.map",
     "runtime-main.js": "/startpage-react/static/js/runtime-main.51aa0f97.js",
@@ -8,9 +8,9 @@
     "static/js/2.1c142d1e.chunk.js": "/startpage-react/static/js/2.1c142d1e.chunk.js",
     "static/js/2.1c142d1e.chunk.js.map": "/startpage-react/static/js/2.1c142d1e.chunk.js.map",
     "index.html": "/startpage-react/index.html",
-    "precache-manifest.75042576cce33b05718a363665c7d680.js": "/startpage-react/precache-manifest.75042576cce33b05718a363665c7d680.js",
+    "precache-manifest.e6615dca45d49fe3e3dc03aa9f0389a6.js": "/startpage-react/precache-manifest.e6615dca45d49fe3e3dc03aa9f0389a6.js",
     "service-worker.js": "/startpage-react/service-worker.js",
-    "static/css/main.d6ca1cde.chunk.css.map": "/startpage-react/static/css/main.d6ca1cde.chunk.css.map",
+    "static/css/main.fc990d74.chunk.css.map": "/startpage-react/static/css/main.fc990d74.chunk.css.map",
     "static/js/2.1c142d1e.chunk.js.LICENSE.txt": "/startpage-react/static/js/2.1c142d1e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/startpage-react/static/media/bg.237c9b97.jpg",
     "static/media/cotta.png": "/startpage-react/static/media/cotta.57db9166.png",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.51aa0f97.js",
     "static/js/2.1c142d1e.chunk.js",
-    "static/css/main.d6ca1cde.chunk.css",
+    "static/css/main.fc990d74.chunk.css",
     "static/js/main.45eccab6.chunk.js"
   ]
 }
