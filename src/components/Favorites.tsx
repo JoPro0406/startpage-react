@@ -44,12 +44,10 @@ const Favorites = () => {
   return (
     <div className="favorites-container">
       {FAVORITES.map((favorite) => (
-        <div
-          className="favorite-item"
-          onClick={() => (window.location.href = favorite.url)}>
+        <a href={favorite.url} className="favorite-item">
           <img src={favorite.icon} alt="" className="favorite-item-icon" />
           <p>{favorite.name}</p>
-        </div>
+        </a>
       ))}
     </div>
   );
